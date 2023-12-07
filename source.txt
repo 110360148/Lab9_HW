@@ -1,0 +1,2 @@
+this txt will copy to the other file
+test file
